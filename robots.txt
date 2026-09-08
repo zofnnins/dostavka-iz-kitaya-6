@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://dostavka-iz-kitaya-6.vercel.app/sitemap.xml
